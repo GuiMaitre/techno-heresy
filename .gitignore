@@ -1,0 +1,7 @@
+# Files acquired by each user. Never commit or publish these.
+/data/
+/.rag-cache/
+/list/
+__pycache__/
+*.pyc
+

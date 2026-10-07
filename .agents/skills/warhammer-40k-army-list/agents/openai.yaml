@@ -1,0 +1,7 @@
+interface:
+  display_name: "Warhammer 40K Army List"
+  short_description: "Build coherent, rules-legal 40K army lists"
+  default_prompt: "Use $warhammer-40k-army-list to build a legal, coherent army list at my requested points value."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Warhammer 40K Rules RAG"
+  short_description: "Answer rules and points from current local data"
+  default_prompt: "Use $warhammer-40k-rules to answer my Warhammer 40,000 rules question from the current local data."
