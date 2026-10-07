@@ -2,7 +2,7 @@
 
 **A local Warhammer 40,000 rules reference and army-list toolkit.** Bring your own rules files, ask questions through an AI assistant, and check rosters against the points data installed on your computer.
 
-[Get started](START_HERE.md) · [Download and place data](DATA_SETUP.md) · [AI setup handoff](SETUP_WITH_AI.md) · [Architecture](ARCHITECTURE.md)
+[docs/Get started](docs/START_HERE.md) · [Download and place data](docs/DATA_SETUP.md) · [AI setup handoff](docs/SETUP_WITH_AI.md) · [Architecture](docs/ARCHITECTURE.md)
 
 ## What it does
 
