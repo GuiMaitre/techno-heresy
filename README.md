@@ -37,6 +37,6 @@ The search index uses SQLite full-text search. It is created on first use and re
 
 ## Trust and scope
 
-`data/`, `.rag-cache/`, and `list/` are ignored by Git and must stay out of public commits. A cloud AI assistant may still receive excerpts returned by a local search command; its own privacy settings govern that transfer. BSData is community maintained, so compare important points and disputed rulings with the official sources. This toolkit does not certify a roster for tournament play.
+BSData is community maintained, so compare important points and disputed rulings with the official sources. This toolkit does not certify a roster for tournament play.
 
-Techno-Heresy is unofficial and is not affiliated with Games Workshop or BSData. The code is [MIT licensed](LICENSE); downloaded rules and community datasets are not covered by that licence. Maintainers should read [PUBLISHING.md](PUBLISHING.md) before creating a public GitHub repository.
+Techno-Heresy is unofficial and is not affiliated with Games Workshop or BSData. The code is [MIT licensed](LICENSE); downloaded rules and community datasets are not covered by that licence. 
