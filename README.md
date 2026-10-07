@@ -28,9 +28,9 @@ flowchart LR
 
 ## Get running
 
-1. Follow [START_HERE.md](START_HERE.md) to install Python and open this folder in a local-capable AI assistant.
-2. Follow [DATA_SETUP.md](DATA_SETUP.md) to download and place the rules, catalogues, and Munitorum files yourself.
-3. Give the assistant [SETUP_WITH_AI.md](SETUP_WITH_AI.md), or run the local commands in the data guide.
+1. Follow [docs/START_HERE.md](START_HERE.md) to install Python and open this folder in a local-capable AI assistant.
+2. Follow [docs/DATA_SETUP.md](DATA_SETUP.md) to download and place the rules, catalogues, and Munitorum files yourself.
+3. Give the assistant [docs/SETUP_WITH_AI.md](SETUP_WITH_AI.md), or run the local commands in the data guide.
 4. Ask a rules question or request an army list. The assistant should cite the installed files and state any unverified legality checks.
 
 The search index uses SQLite full-text search. It is created on first use and rebuilt when source files change. No vector database, embeddings service, or API key is needed.
